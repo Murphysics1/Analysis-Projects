@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
-
 i = 0
 
 def main():
     num = int(input('Starting Number: '))
-    conj(num)    
+    conj(num)
+    
 
 def conj(num):
     
