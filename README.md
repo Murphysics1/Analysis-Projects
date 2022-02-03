@@ -1,6 +1,3 @@
-# Today-I-Was-Thinking-About
- Short exploratory ideas that interest me
-
 * Position-Time Graph Generator:
 	A notebook written for Google Colab for my students. It generates real looking position time graphs so students can see the effects of 
 
